@@ -13,7 +13,7 @@
     "@argent/get-starknet": "^5.3.17",
     "@argent/x-sessions": "^5.3.17",
     "ethers": "^5.5.1",
-    "next": "^13.0.0",
+    "next": "^13.5.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "starknet": "^4.21.0",
