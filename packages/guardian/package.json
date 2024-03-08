@@ -22,7 +22,7 @@
     "setup": "yarn build"
   },
   "dependencies": {
-    "jose": "^4.11.2",
+    "jose": "^4.15.5",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
