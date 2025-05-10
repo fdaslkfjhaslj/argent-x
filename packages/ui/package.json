@@ -47,7 +47,7 @@
     "test:ci": "vitest run --coverage"
   },
   "dependencies": {
-    "@chakra-ui/react": "2.5.1",
+    "@chakra-ui/react": "2.9.0",
     "@emotion/styled": "^11.10.4",
     "@ethersproject/wordlists": "^5.7.0",
     "framer-motion": "^9.0.3",
