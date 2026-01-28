@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "jose": "^4.11.2",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.23"
   },
   "devDependencies": {
     "@types/async-retry": "^1.4.5",
